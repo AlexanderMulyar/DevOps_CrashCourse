@@ -1,5 +1,5 @@
 # DevOps_CrashCourse
 (Homeworks)
 
-* Item 1
-* Item 2
+* Task_№1 - (Deploy) - [x] this is a complete item
+* Task_№2 - (Docker) - [ ] this is an incomplete item
