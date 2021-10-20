@@ -1,6 +1,6 @@
 # DevOps_CrashCourse
-DOCC (Homeworks)
+<h2>Homeworks<h2>
 
 * Task_№1 - (Deploy) [✔️]
 * Task_№2 - (Docker) [✔️] 
-* Task_№3 - (------) [❌]
+* Task_№3 - (--------) [❌]
