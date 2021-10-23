@@ -8,7 +8,10 @@
    - Create virtual machine in VirtualBox.
    - Installed nginx (configured it).
    - Made internal settings.
-   - Deploy websites ↓↓↓ </br>
+   - Deploy websites ↓↓↓ 
+
+
+
 
 
    
