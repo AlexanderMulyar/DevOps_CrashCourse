@@ -12,15 +12,15 @@ ____
 <h3>Docker</h3>
 
 - Container
-   ![2](https://user-images.githubusercontent.com/82367885/138553621-bdb3a606-1bf1-47d1-bd32-84e305c939f7.png)
+   - ![2](https://user-images.githubusercontent.com/82367885/138553621-bdb3a606-1bf1-47d1-bd32-84e305c939f7.png)
 
 - Result
-   ![1](https://user-images.githubusercontent.com/82367885/138553622-2ca7d7db-dbac-401d-9606-dbb0c2577ab5.png)
+   - ![1](https://user-images.githubusercontent.com/82367885/138553622-2ca7d7db-dbac-401d-9606-dbb0c2577ab5.png)
 
 ____
 <h3>Docker Compose</h3>
 
 - Status
-   ![C1](https://user-images.githubusercontent.com/82367885/138553695-27be571f-3126-41e5-b86f-01d4b8bde29c.png)
+   - ![C1](https://user-images.githubusercontent.com/82367885/138553695-27be571f-3126-41e5-b86f-01d4b8bde29c.png)
 - Result      
-   ![C2](https://user-images.githubusercontent.com/82367885/138553708-cd9d007f-b93e-4596-82d5-824587a71cca.png)
+   - ![C2](https://user-images.githubusercontent.com/82367885/138553708-cd9d007f-b93e-4596-82d5-824587a71cca.png)
