@@ -27,4 +27,4 @@ ____
     
    - ![2](https://user-images.githubusercontent.com/82367885/138553708-cd9d007f-b93e-4596-82d5-824587a71cca.png)
 
-<- [Back](https://github.com/AlexanderMulyar/DevOps_CrashCourse)
+ ←[Back](https://github.com/AlexanderMulyar/DevOps_CrashCourse)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀↑[Up]()
