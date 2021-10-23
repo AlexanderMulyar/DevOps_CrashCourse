@@ -8,7 +8,9 @@
    - Create virtual machine in VirtualBox.
    - Installed nginx (configured it).
    - Made internal settings.
-   - Deploy websites U+21E9
+   - Deploy websites :U+21E9:
+
+
    
 - 1.1 Deploy a simple html page using (nginx):
 
