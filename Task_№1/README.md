@@ -1,6 +1,15 @@
 # Alexander Mulyar - DevOps_CrashCourse 
    Homework -> №1
    
+- Completion of the task:
+   - Installed VirtualBox.
+   - Installed Vagrant.
+   - Configured Vagrantfile.
+   - Create virtual machine in VirtualBox.
+   - Installed nginx (configured it).
+   - Made internal settings.
+   - Deploy websites U+21E9
+   
 - 1.1 Deploy a simple html page using (nginx):
 
     ![2](https://user-images.githubusercontent.com/82367885/138549876-43170cac-f860-4abb-ae7a-c67d90c837ce.png)
