@@ -2,4 +2,5 @@
    Homework -> №1
    
 - 1.1 Deploy a simple html page using (nginx):
--- ![2](https://user-images.githubusercontent.com/82367885/138549876-43170cac-f860-4abb-ae7a-c67d90c837ce.png)
+
+    ![2](https://user-images.githubusercontent.com/82367885/138549876-43170cac-f860-4abb-ae7a-c67d90c837ce.png)
