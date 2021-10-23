@@ -23,7 +23,7 @@ ____
 - Status
   
    - ![1](https://user-images.githubusercontent.com/82367885/138553695-27be571f-3126-41e5-b86f-01d4b8bde29c.png)
-- Result  
+- Result  (The result is working out the code PhP + MySql db on the website.)
     
    - ![2](https://user-images.githubusercontent.com/82367885/138553708-cd9d007f-b93e-4596-82d5-824587a71cca.png)
 
