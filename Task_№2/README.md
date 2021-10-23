@@ -21,8 +21,8 @@ ____
 <h3>Docker Compose</h3>
 
 - Status
-  ![C1](https://user-images.githubusercontent.com/82367885/138553695-27be571f-3126-41e5-b86f-01d4b8bde29c.png)
-   ![C3](https://user-images.githubusercontent.com/82367885/138553700-53e08b9e-e8bc-41d9-84b1-7f6abe749b2d.png)
+      ![C1](https://user-images.githubusercontent.com/82367885/138553695-27be571f-3126-41e5-b86f-01d4b8bde29c.png)
+      ![C3](https://user-images.githubusercontent.com/82367885/138553700-53e08b9e-e8bc-41d9-84b1-7f6abe749b2d.png)
 
 - Result      
    ![C2](https://user-images.githubusercontent.com/82367885/138553708-cd9d007f-b93e-4596-82d5-824587a71cca.png)
