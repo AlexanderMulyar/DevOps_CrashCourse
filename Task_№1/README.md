@@ -9,6 +9,6 @@
  
     ![3](https://user-images.githubusercontent.com/82367885/138550629-53a2c29a-4849-4091-bb1f-dac2fb3e5344.png)
 
-- 1.3 :
+- 1.3 Deploying a Wordpress website with a database (MySql, PhP) using (nginx):
 
-   
+    ![1](https://user-images.githubusercontent.com/82367885/138551100-a6e34bd3-4ed4-4c1c-882d-70c7857b029b.png)
