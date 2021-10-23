@@ -1,4 +1,4 @@
 # Alexander Mulyar - DevOps_CrashCourse 
    Homework -> №1
    
-- 123. Deploy a simple html page using (nginx):
+- 1.1 Deploy a simple html page using (nginx):
