@@ -2,9 +2,9 @@
    <h3>Homework -> №4 AWS</h3>
 
 - Completion of the task:
-   - Create AWS free tier account
-   - Create VPC
-   - Deploy app (WordPress) on VPC
+   - Create AWS free tier account.
+   - Create VPC and configure it.
+   - Deploy app (WordPress) on VPC.
    - Result ↓↓↓ 
 ____
 <h3>AWS</h3>
