@@ -2,7 +2,9 @@
    <h3>Homework -> №4 AWS</h3>
 
 - Completion of the task:
-   - .
+   - Create AWS free tier account
+   - Create VPC
+   - Deploy app (WordPress) on VPC
    - Result ↓↓↓ 
 ____
 <h3>AWS</h3>
@@ -16,7 +18,8 @@ ____
 - Database
    - ![wp](https://user-images.githubusercontent.com/82367885/140422101-c3040388-2444-4020-947d-d9dbc7342129.png)
 
-- Result IP (3.69.29.204)
+- Result -> [3.69.29.204](http://3.69.29.204/)
    - ![Main](https://user-images.githubusercontent.com/82367885/140422195-171e82ac-49a2-404e-a9a3-aa299f1b3396.png)
 
 
+ ←[Back](https://github.com/AlexanderMulyar/DevOps_CrashCourse)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀↑[Up]()
