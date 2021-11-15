@@ -16,3 +16,5 @@
 ![7](https://user-images.githubusercontent.com/82367885/141849089-a57869fc-6d2d-4d2d-aedf-2e6295feee63.png)
 
 ![8](https://user-images.githubusercontent.com/82367885/141849097-7178936f-0428-4b74-92e2-8a4ddc470761.png)
+
+ ←[Back](https://github.com/AlexanderMulyar/DevOps_CrashCourse)⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀↑[Up]()
